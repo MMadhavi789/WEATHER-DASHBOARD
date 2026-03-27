@@ -1,70 +1,31 @@
-# Getting Started with Create React App
+# WEATHER-DASHBOARD
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+## PROJECT DETAILS
 
-## Available Scripts
+**COMPANY:** CODTECH IT SOLUTIONS
 
-In the project directory, you can run:
+**PROJECT NAME:** WEATHER DASHBOARD  
 
-### `npm start`
+**NAME:** MADHAVI MANCHEM  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**INTERN ID:** CTIS6645  
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+**DOMAIN:** FRONTEND DEVELOPMENT  
 
-### `npm test`
+**DURATION:** 4 WEEKS  
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+**MENTOR:** NELLA SANTOSH  
 
-### `npm run build`
+## DESCRIPTION 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This Weather Dashboard is a web application created during my frontend development internship . The main goal of this project is to create an easy and interactive user interface that allows users to easily access and understand weather information for different locations. This project focuses on improving frontend development skills by applying real-time concepts and creating a responsive and visually appealing layout.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+This application allows users to enter a city name and quickly check weather details such as temperature, weather conditions, humidity, and wind speed. The dashboard layout plays a key role in this project, as it organizes all the information in a structured and easy-to-read format. The user interface is kept simple and clean so that even first-time users can navigate the application without any difficulty.
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+While building this project, several frontend concepts were appiled , such as component-based design, proper state handling, and dynamic data rendering. The project shows how data can be collected from external sources and displayed instantly. This helps in understanding how real-world applications work and how users interact with live data.
 
-### `npm run eject`
+The project also focuses on making the application responsive, ensuring that the dashboard works smoothly on different devices such as desktops, tablets, and mobile phones. The layout automatically adjusts based on screen size, providing a consistent user experience across all platforms. Styling techniques were used effectively to enhance the overall appearance of the application and to make it visually attractive.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+This project also improves problem-solving skills by handing differnt situations by handling different scenarios such as invalid inputs, loading states, and data display issues. It provides hands-on experience in building a complete frontend project from scratch, starting from planning the design to implementing the final output.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+In conclusion, the Weather Dashboard Project provides a strong base for understanding frontend development. It reflects the ability to create functional and user-friendly web applications. The knowledge and experience gained from this project will be useful for building more advanced applications in the future and will contribute to professional growth in the field of web development.
