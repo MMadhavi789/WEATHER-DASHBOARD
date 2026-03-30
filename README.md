@@ -34,4 +34,5 @@ In conclusion, the Weather Dashboard Project provides a strong base for understa
 
 <img width="343" height="497" alt="Image" src="https://github.com/user-attachments/assets/8cdd3690-fd4e-4c0b-9b4d-af8ba5826daa" />
 
+<img width="350" height="490" alt="Image" src="https://github.com/user-attachments/assets/d87cb699-51d6-49ef-a674-6a689dd904c2" />
 
