@@ -29,3 +29,7 @@ The project also focuses on making the application responsive, ensuring that the
 This project also improves problem-solving skills by handing differnt situations by handling different scenarios such as invalid inputs, loading states, and data display issues. It provides hands-on experience in building a complete frontend project from scratch, starting from planning the design to implementing the final output.
 
 In conclusion, the Weather Dashboard Project provides a strong base for understanding frontend development. It reflects the ability to create functional and user-friendly web applications. The knowledge and experience gained from this project will be useful for building more advanced applications in the future and will contribute to professional growth in the field of web development.
+
+#OUTPUT
+
+<img width="343" height="497" alt="Image" src="https://github.com/user-attachments/assets/8cdd3690-fd4e-4c0b-9b4d-af8ba5826daa" />
